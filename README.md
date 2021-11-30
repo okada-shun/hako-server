@@ -1,1 +1,1 @@
-# Hako Finance Sever
+# Hako Finance Server
